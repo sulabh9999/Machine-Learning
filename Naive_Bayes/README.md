@@ -14,10 +14,10 @@ Naive Bayes classifier is a straightforward and powerful algorithm for the class
 
 
 
-Help from:
-http://shatterline.com/blog/2013/09/12/not-so-naive-classification-with-the-naive-bayes-classifier/
-https://chrisalbon.com/machine-learning/naive_bayes_classifier_from_scratch.html
-https://www.youtube.com/watch?v=XcwH9JGfZOU
+Help from:  
+http://shatterline.com/blog/2013/09/12/not-so-naive-classification-with-the-naive-bayes-classifier/  
+https://chrisalbon.com/machine-learning/naive_bayes_classifier_from_scratch.html  
+https://www.youtube.com/watch?v=XcwH9JGfZOU  
 
 ### Todos
 
