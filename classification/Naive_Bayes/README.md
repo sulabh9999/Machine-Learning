@@ -9,7 +9,7 @@ Naive Bayes classifier is a straightforward and powerful algorithm for the class
 - Best for textual data analysis.
 
 
-![](http://mines.humanoriented.com/classes/2010/fall/csci568/portfolio_exports/lguo/image/bayesian/bayestheorem.jpg)
+![](https://www.analyticsvidhya.com/wp-content/uploads/2015/09/Bayes_rule-300x172-300x172.png)
 
 
 
